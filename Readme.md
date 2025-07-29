@@ -6,7 +6,7 @@ An end-to-end analysis project conducted to provide data-backed, actionable reco
 
 ## 🔗 Dashboard Link
 
-[🔗 Click to View Dashboard (PDF Preview)](./Dashboard/Dashboard_Export.pdf)
+[🔗 Click to View Dashboard (PDF Preview)](Power Bi Dashboard Mitron Bank.pdf)
 
 ---
 
