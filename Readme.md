@@ -6,7 +6,7 @@ An end-to-end analysis project conducted to provide data-backed, actionable reco
 
 ## 🔗 Dashboard Link
 
-[🔗 Click to View Dashboard (PDF Preview)](./Dashboard/Dashboard\_Export.pdf)
+[🔗 Click to View Dashboard (PDF Preview)](./Dashboard/Dashboard_Export.pdf)
 
 ---
 
@@ -28,95 +28,95 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. With a
 
 ---
 
-\## 🎯 Objective of the Project
+## 🎯 Objective of the Project
 
 To analyze customer demographic, income, and transaction data and provide actionable, data-driven recommendations for tailoring the new credit cards to market demand and user behavior.
 
-\---
+---
 
-\## ❓ Problem Statement
+## ❓ Problem Statement
 
-- \*\*Demographic Classification\*\*: Classify customers by age group, gender, occupation, marital status, and city to identify potential market segments.
-- \*\*Spending Insights\*\*: Understand where, how, and by whom money is being spent to align card benefits with actual customer needs.
-- \*\*Payment Behavior Analysis\*\*: Evaluate how customers are transacting — through credit cards, UPI, debit, or net banking.
-- \*\*Key Segment Profiling\*\*: Pinpoint high-value customer segments to target in marketing and product strategy.
-- \*\*Credit Card Feature Design\*\*: Recommend features that will encourage credit card usage and long-term adoption.
+- **Demographic Classification**: Classify customers by age group, gender, occupation, marital status, and city to identify potential market segments.
+- **Spending Insights**: Understand where, how, and by whom money is being spent to align card benefits with actual customer needs.
+- **Payment Behavior Analysis**: Evaluate how customers are transacting — through credit cards, UPI, debit, or net banking.
+- **Key Segment Profiling**: Pinpoint high-value customer segments to target in marketing and product strategy.
+- **Credit Card Feature Design**: Recommend features that will encourage credit card usage and long-term adoption.
 
-\---
+---
 
-\## 👥 Demographic Classification
+## 👥 Demographic Classification
 
-Using Power BI, we analyzed a dataset of \*\*4,000 customers\*\* across five cities:
+Using Power BI, we analyzed a dataset of **4,000 customers** across five cities:
 
-\### 📌 Gender Breakdown
+### 📌 Gender Breakdown
 
-- \*\*Males\*\*: 64.93%
-- \*\*Females\*\*: 35.08%
+- **Males**: 64.93%
+- **Females**: 35.08%
 
-\### 📌 Age Group
+### 📌 Age Group
 
-- \*\*25–35\*\*: 1,498 customers — most dominant segment
-- \*\*35–45\*\*: 1,273 customers — strong balance of genders
-- \*\*45+\*\*: Smaller, but significant
+- **25–35**: 1,498 customers — most dominant segment
+- **35–45**: 1,273 customers — strong balance of genders
+- **45+**: Smaller, but significant
 
-\### 📌 City-Wise Distribution
+### 📌 City-Wise Distribution
 
-- \*\*Mumbai\*\*: Highest number of customers (1,078)
-- Other major cities include \*\*Chennai, Bengaluru, Delhi NCR, and Hyderabad\*\*
+- **Mumbai**: Highest number of customers (1,078)
+- Other major cities include **Chennai, Bengaluru, Delhi NCR, and Hyderabad**
 
-\### 📌 Occupation
+### 📌 Occupation
 
-- \*\*Salaried IT Employees\*\*: 1,294 customers — highest demographic
-- Others include \*\*freelancers, business owners, and government employees\*\*
+- **Salaried IT Employees**: 1,294 customers — highest demographic
+- Others include **freelancers, business owners, and government employees**
 
-\### 📌 Marital Status
+### 📌 Marital Status
 
-- \*\*Married\*\*: 78.41%
-- \*\*Unmarried\*\*: 21.6%
+- **Married**: 78.41%
+- **Unmarried**: 21.6%
 
-\---
+---
 
-\## 💸 Customer Spending Analysis
+## 💸 Customer Spending Analysis
 
 The “Customer Spend Analysis” section provides key metrics:
 
-\### 🧾 Key Metrics (6 Months)
+### 🧾 Key Metrics (6 Months)
 
-- \*\*Total Income\*\*: $1240M
-- \*\*Total Spend\*\*: $531M
-- \*\*Avg. Income Utilization\*\*: 42.82%
+- **Total Income**: $1240M
+- **Total Spend**: $531M
+- **Avg. Income Utilization**: 42.82%
 
-\### 💳 Spend by Category
+### 💳 Spend by Category
 
-- \*\*Bills\*\*: $105M
-- \*\*Groceries\*\*: $86M
-- \*\*Electronics\*\*: $80M
-- \*\*Others\*\*: $16M
+- **Bills**: $105M
+- **Groceries**: $86M
+- **Electronics**: $80M
+- **Others**: $16M
 
-\### 💼 Spend by Occupation
+### 💼 Spend by Occupation
 
-- \*\*IT Employees\*\*: $244M
-- \*\*Business Owners\*\*, \*\*Freelancers\*\*, and \*\*Others\*\* follow
+- **IT Employees**: $244M
+- **Business Owners**, **Freelancers**, and **Others** follow
 
-\### 🌆 Spend by City
+### 🌆 Spend by City
 
-- \*\*Mumbai\*\*: $172M
-- Followed by \*\*Delhi NCR\*\*, \*\*Bengaluru\*\*, \*\*Chennai\*\*, \*\*Hyderabad\*\*
+- **Mumbai**: $172M
+- Followed by **Delhi NCR**, **Bengaluru**, **Chennai**, **Hyderabad**
 
-\### 💍 Spend by Marital Status
+### 💍 Spend by Marital Status
 
-- \*\*Married\*\*: $429M
-- \*\*Unmarried\*\*: $102M
+- **Married**: $429M
+- **Unmarried**: $102M
 
-\---
+---
 
-\## 💳 Payment Type Analysis
+## 💳 Payment Type Analysis
 
-\### 📌 Spend by Marital Status
+### 📌 Spend by Marital Status
 
 | Payment Type     | Married ($M) | Unmarried ($M) |
 
-\|------------------|--------------|----------------|
+|------------------|--------------|----------------|
 
 | Credit Card      | 176          | 40             |
 
@@ -126,68 +126,68 @@ The “Customer Spend Analysis” section provides key metrics:
 
 | UPI              | 109          | 32             |
 
-\---
+---
 
-\### 📌 Spend by Occupation (Credit Card Example)
+### 📌 Spend by Occupation (Credit Card Example)
 
-- \*\*IT Employees\*\*: $101M
-- \*\*Business Owners\*\*: $36M
-- \*\*Freelancers\*\*: $26M
-- \*\*Govt Employees\*\*: $16M
+- **IT Employees**: $101M
+- **Business Owners**: $36M
+- **Freelancers**: $26M
+- **Govt Employees**: $16M
 
-\### 📌 Spend by Age Group (Credit Card Example)
+### 📌 Spend by Age Group (Credit Card Example)
 
-- \*\*25–34\*\*: $95M
-- \*\*35–45\*\*: $74M
-- \*\*21–24\*\*: $23M
-- \*\*45+\*\*: $24M
+- **25–34**: $95M
+- **35–45**: $74M
+- **21–24**: $23M
+- **45+**: $24M
 
-\### 📌 Spend by City (Credit Card Example)
+### 📌 Spend by City (Credit Card Example)
 
-- \*\*Mumbai\*\*: $70M
-- \*\*Delhi NCR\*\*: $46M
-- \*\*Bangalore\*\*: $40M
-- \*\*Chennai\*\*: $23M
-- \*\*Hyderabad\*\*: $28M
+- **Mumbai**: $70M
+- **Delhi NCR**: $46M
+- **Bangalore**: $40M
+- **Chennai**: $23M
+- **Hyderabad**: $28M
 
-\---
+---
 
-\## 🧠 Recommendations for the Next Credit Card
+## 🧠 Recommendations for the Next Credit Card
 
 To drive credit card adoption and engagement, the following features are proposed:
 
-\### 🎁 1. Tailored Rewards Program
+### 🎁 1. Tailored Rewards Program
 
 - Cashback/rewards aligned to top spending categories: groceries, bills, electronics
 - Dynamic rewards for IT professionals, freelancers, and salaried customers
 
-\### 💳 2. Flexible Payment Options
+### 💳 2. Flexible Payment Options
 
 - EMI conversion, variable payment due dates, and credit limit customization
 
-\### 📊 3. Budgeting & Expense Tracking Tools
+### 📊 3. Budgeting & Expense Tracking Tools
 
 - Built-in tools or integration with apps for self-employed professionals
 
-\### 💰 4. Competitive Pricing
+### 💰 4. Competitive Pricing
 
 - Low annual fee, promotional 0% APR, loyalty-based interest reductions
 
-\### 📱 5. Mobile & Contactless Payments
+### 📱 5. Mobile & Contactless Payments
 
 - Integration with UPI, Google Pay, Apple Pay, and NFC tap-to-pay
 
-\### 🔐 6. Advanced Security Features
+### 🔐 6. Advanced Security Features
 
 - Real-time fraud alerts, virtual cards, biometric & OTP authentication
 
-\---
+---
 
-\## 📁 Project Assets
+## 📁 Project Assets
 
 | Folder | Content |
 
-\|--------|---------|
+|--------|---------|
 
 | `Dashboard/` | Dashboard PDF export and preview images |
 
@@ -201,11 +201,11 @@ To drive credit card adoption and engagement, the following features are propose
 
 | `Assets/` | Logo, icons, and branding elements |
 
-\---
+---
 
-\## 👨‍💻 Developed By
+## 👨‍💻 Developed By
 
-\*\*Ranjan Ukey\*\*
+**Ranjan Ukey**
 
 📌 Data Analyst Intern
 
@@ -213,9 +213,9 @@ To drive credit card adoption and engagement, the following features are propose
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ranjanukey)
 
-\---
+---
 
-\## 🛡️ Disclaimer
+## 🛡️ Disclaimer
 
 This is a pilot project built for educational and demonstration purposes using anonymized or fictional customer data.
 
