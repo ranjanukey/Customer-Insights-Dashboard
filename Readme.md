@@ -6,7 +6,7 @@ An end-to-end analysis project conducted to provide data-backed, actionable reco
 
 ## 🔗 Dashboard Link
 
-[🔗 Click to View Dashboard (PDF Preview)]((https://github.com/ranjanukey/Customer-Insights-Dashboard/blob/master/Power%20Bi%20Dashboard%20Mitron%20Bank.pdf))
+[🔗 Click to View Dashboard (PDF Preview)] https://github.com/ranjanukey/Customer-Insights-Dashboard/blob/master/Power%20Bi%20Dashboard%20Mitron%20Bank.pdf
 
 ---
 
