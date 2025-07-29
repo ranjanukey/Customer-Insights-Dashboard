@@ -1,16 +1,16 @@
-﻿\# 📊 Mitron Bank: Analysis for New Credit Card Launch
+﻿# 📊 Mitron Bank: Analysis for New Credit Card Launch
 
 An end-to-end analysis project conducted to provide data-backed, actionable recommendations for the launch of a new line of credit cards by Mitron Bank.
 
-\---
+---
 
-\## 🔗 Dashboard Link
+## 🔗 Dashboard Link
 
 [🔗 Click to View Dashboard (PDF Preview)](./Dashboard/Dashboard\_Export.pdf)
 
-\---
+---
 
-\## 📚 Table of Contents
+## 📚 Table of Contents
 
 - [About Mitron Bank](#about-mitron-bank)
 - [Objective of the Project](#objective-of-the-project)
@@ -20,13 +20,13 @@ An end-to-end analysis project conducted to provide data-backed, actionable reco
 - [Payment Type Analysis](#payment-type-analysis)
 - [Recommendations for Next Credit Card](#recommendations-for-next-credit-card)
 
-\---
+---
 
-\## 🏦 About Mitron Bank
+## 🏦 About Mitron Bank
 
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. With a vision to expand its financial product offerings, the bank plans to introduce a new line of credit cards targeting emerging customer needs and market opportunities.
 
-\---
+---
 
 \## 🎯 Objective of the Project
 
