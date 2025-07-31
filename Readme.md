@@ -211,9 +211,3 @@ This project is intended for educational purposes using anonymized or fictional 
 <p align="center">
   <img src="https://img.icons8.com/nolan/64/security-checked.png"/>
 </p>
-"""
-
-# Save updated README with tech stack
-tech_path = Path("/mnt/data/README_Mitron_Bank_With_Tech_Stack.md")
-tech_path.write_text(mitron_readme_with_tech.strip(), encoding="utf-8")
-tech_path.name
