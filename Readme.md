@@ -2,19 +2,21 @@
 # Append tech stack section to enhanced Mitron Bank README
 
 <p align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/bank-building.png" alt="Mitron Bank Logo" width="120"/>
+  <img src="https://github.com/ranjanukey/Customer-Insights-Dashboard/blob/master/Assest/Bank%20Logo.png" alt="Mitron Bank Logo" width="100"/>
 </p>
 
 <h1 align="center">📊 Mitron Bank: Credit Card Launch Analysis (2025)</h1>
 
 <p align="center">
-  <a href="https://github.com/ranjanukey/Customer-Insights-Dashboard/blob/master/Power%20Bi%20Dashboard%20Mitron%20Bank.pdf">
-    <img src="https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Dashboard PDF"/>
-  </a>
-  <a href="https://github.com/ranjanukey/Customer-Insights-Dashboard">
-    <img src="https://img.shields.io/github/stars/ranjanukey/Customer-Insights-Dashboard?style=for-the-badge" alt="GitHub Stars"/>
-  </a>
+  <a href="https://github.com/ranjanukey/Customer-Insights-Dashboard/blob/master/Power%20Bi%20Dashboard%20Mitron%20Bank.pdf">
+    <img src="https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Dashboard PDF"/>
+  </a>
+  <a href="https://github.com/ranjanukey/Customer-Insights-Dashboard">
+    <img src="https://img.shields.io/github/stars/ranjanukey/Customer-Insights-Dashboard?style=for-the-badge" alt="GitHub Stars"/>
+  </a>
 </p>
+
+---
 
 ---
 
